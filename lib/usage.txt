@@ -1,0 +1,8 @@
+
+Usage: chainshot-builder <command>
+
+Where <command> can be:
+  init, run
+
+chainshot-builder init      initialize a new content repository with a readme
+chainshot-builder run       modify an existing content repository
