@@ -19,4 +19,4 @@ chainshot-builder init
 ```
 
 This will spin up your IDE and you begin making content immediately! For further information,
-check out the [documentation](file:///Users/Dan/Desktop/repos/Builder/docs/_build/html/building_new_content.html#start-editing)!
+check out the [documentation](https://chainshotbuilder.readthedocs.io/en/latest/building_new_content.html#start-editing)!
