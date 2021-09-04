@@ -2,7 +2,8 @@
 Usage: chainshot-builder <command>
 
 Where <command> can be:
-  init, run
+  init, run, ci
 
 chainshot-builder init      initialize a new content repository with a readme
 chainshot-builder run       modify an existing content repository
+chainshot-builder ci        run continuous integration tests against ref solutions
